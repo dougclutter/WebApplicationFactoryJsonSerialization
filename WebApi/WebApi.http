@@ -1,0 +1,6 @@
+@WebApplicationFactoryJsonSerialization_HostAddress = http://localhost:5084
+
+GET {{WebApplicationFactoryJsonSerialization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
